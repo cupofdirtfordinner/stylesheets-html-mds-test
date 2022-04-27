@@ -1,6 +1,6 @@
 ---
 layout: default
-title: yes
+title: "yes"
 ---
 <p>
 skfdjghlkfgjsdhflgjh
